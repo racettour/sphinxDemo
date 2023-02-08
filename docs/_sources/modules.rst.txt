@@ -1,0 +1,8 @@
+demoSphinx
+==========
+
+.. toctree::
+   :maxdepth: 4
+
+   fonction
+   main
